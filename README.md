@@ -2,7 +2,7 @@
 
 👨‍💻 Desenvolvedor Web Front End
 📚 Apaixonado por tecnologia
-🎓 20 anos de idade
+🎓 21 anos de idade
 
 Bem-vindo ao meu perfil do GitHub! Sou um jovem entusiasta da tecnologia com foco em Desenvolvimento Web. Aqui, você encontrará projetos e contribuições que refletem minha jornada de aprendizado e paixão pela criação de soluções web inovadoras.
 
