@@ -1,6 +1,6 @@
 ## Olá, sou Luiz Henrique 👋
 
-👨‍💻 Desenvolvedor Web Front End
+👨‍💻 Desenvolvedor Web Full Stack
 📚 Apaixonado por tecnologia
 🎓 21 anos de idade
 
