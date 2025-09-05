@@ -58,7 +58,14 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 
 ### Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Luiz%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquecomunicador/ )](https://www.linkedin.com/in/luizhenriquecomunicador/ )
-[![Gmail](https://img.shields.io/badge/-luizhn1703@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizhn1703@gmail.com )](mailto:luizhn1703@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%20(13 )%2098226--4495-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513982264495 )](https://api.whatsapp.com/send?phone=5513982264495 )
+
+<a href="https://www.linkedin.com/in/luizhenriquecomunicador/" target="_blank">
+  <img src="https://img.shields.io/badge/-Luiz%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:luizhn1703@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-luizhn1703@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5513982264495" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp">
+</a>
 
