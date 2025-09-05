@@ -6,8 +6,8 @@
 Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e transformar ideias em realidade. Com experiência prática no mercado, tive a oportunidade de contribuir para um projeto completo, onde pude aprimorar minhas habilidades em desenvolvimento, manutenção e refatoração de código.
 
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uniasselvi.
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em arquitetura de micro-serviços e aprimorando minhas habilidades em testes automatizados.
-- 💼 Buscando minha próxima oportunidade para colaborar com um time inovador e construir produtos de alto impacto.
+- 🚀 Sempre focado em aprimorar minhas habilidades e explorar novas tecnologias para construir o futuro da web.
+- 💻 "A tecnologia é a ferramenta que nos permite transformar o impossível de ontem na realidade de hoje."
 
 ---
 
