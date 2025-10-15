@@ -56,6 +56,11 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 
 ---
 
+**Testes Automatizados**
+
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325 )
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=69D3A7 )
+
 ### Onde me encontrar
 
 
