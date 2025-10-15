@@ -31,6 +31,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb )
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=07405E )
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E )
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=white )
 
 **Controle de Versão e Pacotes**
