@@ -54,12 +54,12 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman )
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-333333?style=flat&logo=thunder&logoColor=white )
 
----
-
 **Testes Automatizados**
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325 )
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=69D3A7 )
+
+---
 
 ### Onde me encontrar
 
