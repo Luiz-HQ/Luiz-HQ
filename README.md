@@ -20,6 +20,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react )
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript )
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript )
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python )
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js )
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white )
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5 )
@@ -40,6 +41,17 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm )
 ![PNPM](https://img.shields.io/badge/-PNPM-333333?style=flat&logo=pnpm&logoColor=F69220 )
 
+**Testes Automatizados**
+
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325 )
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=69D3A7 )
+
+**Testes de API**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia )
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman )
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-333333?style=flat&logo=thunder&logoColor=white )
+
 **Ferramentas de Desenvolvimento e Colaboração**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC )
@@ -48,21 +60,9 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello )
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=microsoft-teams )
 
-**Testes de API**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia )
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman )
-![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-333333?style=flat&logo=thunder&logoColor=white )
-
-**Testes Automatizados**
-
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325 )
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=69D3A7 )
-
 ---
 
 ### Onde me encontrar
-
 
 <a href="https://www.linkedin.com/in/luizhenriquecomunicador/" target="_blank">
   <img src="https://img.shields.io/badge/-Luiz%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
@@ -73,4 +73,3 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 <a href="https://api.whatsapp.com/send?phone=5513982264495" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp">
 </a>
-
