@@ -75,7 +75,7 @@ My Portfolio / Website
   <img src="https://img.shields.io/badge/-Luiz%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:luizhn1703@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-luizhn1703@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/-luizdeveloper17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5513982264495" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp">
