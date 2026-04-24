@@ -1,19 +1,25 @@
 <!-- Contador de visitas. Mude 'luizhenriquecomunicador' para o seu username do GitHub -->
 ![](https://komarev.com/ghpvc/?username=luizhenriquecomunicador&color=006bed&style=flat-square )
 
-### Olá, eu sou o Luiz Henrique! 👋
+### Hi, I'm Luiz Henrique! 👋
 
-Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e transformar ideias em realidade. Com experiência prática no mercado, tive a oportunidade de contribuir para um projeto completo, onde pude aprimorar minhas habilidades em desenvolvimento, manutenção e refatoração de código.
+I'm a Full Stack Developer passionate about creating software solutions and turning ideas into reality. With hands-on experience in the market, I had the opportunity to contribute to a complete project, where I improved my skills in development, maintenance, and code refactoring.
 
-- 🎓 Análise e Desenvolvimento de Sistemas.
-- 🚀 Sempre focado em aprimorar minhas habilidades e explorar novas tecnologias para construir o futuro da web.
-- 💻 "A tecnologia é a ferramenta que nos permite transformar o impossível de ontem na realidade de hoje."
+- 🎓 Systems Analysis and Development.
+- 🚀 Always focused on improving my skills and exploring new technologies to build the future of the web.
+- 💻 "Technology is the tool that allows us to turn yesterday's impossible into today's reality."
 
 ---
 
-### Minhas Skills
+My Portfolio / Website
 
-**Linguagens e Frameworks**
+🚀 Check out my website with projects, experience, and more details about me:
+
+🔗 URL: <a href="https://luizdev.com/" target="_blank">
+
+### My Skills
+
+**Languages and Frameworks**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react )
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white )
@@ -27,14 +33,14 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6 )
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css )
 
-**Banco de Dados e ORMs**
+**Databases and ORMs**
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb )
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=07405E )
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E )
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=white )
 
-**Controle de Versão e Pacotes**
+**Version Control and Package Managers**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git )
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github )
@@ -42,18 +48,18 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm )
 ![PNPM](https://img.shields.io/badge/-PNPM-333333?style=flat&logo=pnpm&logoColor=F69220 )
 
-**Testes Automatizados**
+**Automated Testing**
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325 )
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=69D3A7 )
 
-**Testes de API**
+**API Testing**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia )
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman )
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-333333?style=flat&logo=thunder&logoColor=white )
 
-**Ferramentas de Desenvolvimento e Colaboração**
+**Development and Collaboration Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC )
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma )
@@ -63,7 +69,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções de software e tr
 
 ---
 
-### Onde me encontrar
+### Where to find me
 
 <a href="https://www.linkedin.com/in/luizhenriquecomunicador/" target="_blank">
   <img src="https://img.shields.io/badge/-Luiz%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
