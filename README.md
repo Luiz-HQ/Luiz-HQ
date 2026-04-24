@@ -15,7 +15,7 @@ My Portfolio / Website
 
 🚀 Check out my website with projects, experience, and more details about me:
 
-🔗 URL: <a href="https://luizdev.com/" target="_blank">
+🔗 URL: <a href="https://luizdev.com/" target="_blank">luizdev.com</a>
 
 ### My Skills
 
